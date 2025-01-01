@@ -12,16 +12,16 @@
 
 ## 📂 Arborescence du Projet
 
-portfolio_app/
-├── app.py
-├── static/
-│   └── style.css
-├── templates/
-│   ├── base.html
-│   └── index.html
-├── Dockerfile
-├── requirements.txt
-└── docker-compose.yml
+-portfolio_app/
+-├── app.py
+-├── static/
+-│   └── style.css
+-├── templates/
+-│   ├── base.html
+-│   └── index.html
+-├── Dockerfile
+-├── requirements.txt
+-└── docker-compose.yml
 
 ## 📋 Prérequis
 
