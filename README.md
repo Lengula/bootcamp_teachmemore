@@ -38,22 +38,22 @@ cd bootcamp_teachmemore
 ### 2 Lancer la VM
 vagrant up
 
-# connecter à la vm via ssh
+connecter à la vm via ssh
 vagrant ssh
 
 ### 3 Démarrer l'application avec Docker
 
 cd /atelier/app_flask
 
-# Lancer l'application
+Lancer l'application
 docker-compose up
 
-# L'application sera accessible depuis le navigateur
+L'application sera accessible depuis le navigateur
 http://localhost:5000
 
-💡 À propos
+# 💡 À propos
 Ce projet a été conçu pour :
 
-🌱 Apprendre les bases de Docker, Flask et Vagrant.
-🔗 Explorer l'intégration de plusieurs technologies.
+**🌱 Apprendre les bases de Docker, Flask et Vagrant.**
+**🔗 Explorer l'intégration de plusieurs technologies.**
 
