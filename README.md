@@ -32,21 +32,21 @@ Avant de commencer, installer les outils suivants :
 - **Docker** et **docker-compose**
 
 ### 1 Cloner le dépôt
-git clone https://github.com/Lengula/bootcamp_teachmemore.git
-cd bootcamp_teachmemore
+- git clone https://github.com/Lengula/bootcamp_teachmemore.git
+- cd bootcamp_teachmemore
 
 ### 2 Lancer la VM
-vagrant up
+- vagrant up
 
 connecter à la vm via ssh
-vagrant ssh
+- vagrant ssh
 
 ### 3 Démarrer l'application avec Docker
 
 cd /atelier/app_flask
 
 Lancer l'application
-docker-compose up
+- docker-compose up
 
 L'application sera accessible depuis le navigateur
 http://localhost:5000
@@ -54,6 +54,6 @@ http://localhost:5000
 # 💡 À propos
 Ce projet a été conçu pour :
 
-**🌱 Apprendre les bases de Docker, Flask et Vagrant.**
-**🔗 Explorer l'intégration de plusieurs technologies.**
+- **🌱 Apprendre les bases de Docker, Flask et Vagrant.**
+- **🔗 Explorer l'intégration de plusieurs technologies.**
 
