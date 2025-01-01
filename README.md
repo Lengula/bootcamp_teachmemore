@@ -31,8 +31,7 @@ Avant de commencer, installer les outils suivants :
 - **VirtualBox**
 - **Docker** et **docker-compose**
 
-### 1️⃣ Cloner le dépôt
-```bash
+### 1 Cloner le dépôt
 git clone https://github.com/Lengula/bootcamp_teachmemore.git
 cd bootcamp_teachmemore
 
